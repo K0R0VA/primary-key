@@ -8,4 +8,4 @@ proc-macro = true
 
 [dependencies]
 quote = "1.0"
-syn = "*"
+syn = "1.0"
